@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="212913ee-86c3-428b-a0ad-356b601f147e" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/dz$GenerateDz.ic" NAME="GenerateDz Coverage Results" MODIFIED="1575355568976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yp.hbl.main.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1WNAPuGyvHxx6anubcq8YpevLZ6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/郝/VBA/dz/src/com/yp/hbl/entity/Dz.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jetbrains-agent.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\郝\VBA\dz\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GenerateDz">
+    <configuration name="GenerateDz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yp.hbl.main.GenerateDz" />
+      <module name="dz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yp.hbl.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yp.hbl.main.Test" />
+      <module name="dz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yp.hbl.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GenerateDz" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenerateDz" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="212913ee-86c3-428b-a0ad-356b601f147e" name="Default" comment="" />
+      <created>1571821082503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571821082503</updated>
+      <workItem from="1571821086312" duration="1310000" />
+      <workItem from="1572834264097" duration="2395000" />
+      <workItem from="1572915023930" duration="4502000" />
+      <workItem from="1573001259928" duration="45365000" />
+      <workItem from="1573434758070" duration="24477000" />
+      <workItem from="1574125579210" duration="10112000" />
+      <workItem from="1574210532574" duration="43005000" />
+      <workItem from="1574686874938" duration="899000" />
+      <workItem from="1574736930860" duration="34249000" />
+      <workItem from="1575247572427" duration="17084000" />
+      <workItem from="1575334038934" duration="14349000" />
+      <workItem from="1575421739802" duration="20407000" />
+      <workItem from="1575509046529" duration="14877000" />
+      <workItem from="1575594772400" duration="7763000" />
+      <workItem from="1575857761427" duration="18349000" />
+      <workItem from="1576048854206" duration="704000" />
+      <workItem from="1576051172148" duration="655000" />
+      <workItem from="1576482805788" duration="1197000" />
+      <workItem from="1576492283603" duration="599000" />
+      <workItem from="1576495213253" duration="116000" />
+      <workItem from="1576545142390" duration="8071000" />
+      <workItem from="1577261895862" duration="3792000" />
+      <workItem from="1577670193051" duration="3383000" />
+      <workItem from="1577958682455" duration="1679000" />
+      <workItem from="1578626253251" duration="4142000" />
+      <workItem from="1578913633189" duration="1855000" />
+      <workItem from="1578925250431" duration="1717000" />
+      <workItem from="1578979661750" duration="3621000" />
+      <workItem from="1578983352995" duration="4592000" />
+      <workItem from="1578991124155" duration="6992000" />
+      <workItem from="1579404169461" duration="205000" />
+      <workItem from="1579404592617" duration="11000" />
+      <workItem from="1586229909773" duration="374000" />
+      <workItem from="1586230337141" duration="2938000" />
+      <workItem from="1586240025061" duration="2312000" />
+      <workItem from="1586339803823" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586240425496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586240425496" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1586240374286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586240374286" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1579096716878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579096716878" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1579096716878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579096716878" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1579096716878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579096716878" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1579096716878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579096716878" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1586240376520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586240376520" />
+    <state x="457" y="167" width="621" height="490" key="find.popup" timestamp="1586340202181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="167" width="621" height="490" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586340202181" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="workbookName.replace(defaultWorkbook, defaultWorkbook + i)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

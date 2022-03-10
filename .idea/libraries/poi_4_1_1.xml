@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="poi-4.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/poi-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlbeans-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-compress-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-schemas-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetbrains-agent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
